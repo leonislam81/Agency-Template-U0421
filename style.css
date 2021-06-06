@@ -64,7 +64,7 @@ div.wrap h2 {
   width: 50%;
 }
 div.wrap p {
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: white;
   font-weight: 700;
   line-height: 1.5rem;
@@ -123,7 +123,7 @@ div.service-box p {
   align-items: center;
 }
 div.img img {
-  max-width: 35rem;
+  max-width: 37rem;
   margin-right: 4rem;
 }
 .production_text h2 {
@@ -132,6 +132,7 @@ div.img img {
   line-height: 3rem;
   color: white;
   margin: 2rem 0;
+  padding-right: 8rem;
 }
 .production_text p {
   font-size: 1rem;
@@ -179,7 +180,7 @@ div.testimonialWrap {
 }
 div.testimonialBox {
   background-color: #21293c;
-  padding: 3rem 1rem 2rem 1rem;
+  padding: 2.6rem 2rem 2rem 2rem;
   z-index: 1;
   border-radius: 0.3rem;
   box-shadow: 7px 9px 20px rgba(0, 0, 0, 0.1);
@@ -190,7 +191,7 @@ div.testimonialBox h3 {
   font-size: 0.8rem;
   color: white;
   font-weight: 400;
-  line-height: 1.5rem;
+  line-height: 1rem;
   margin-bottom: 1rem;
 }
 div.imgWrap img {
@@ -202,12 +203,12 @@ div.imgWrap {
   align-items: center;
 }
 div.imgText h4 {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   color: white;
   margin-bottom: 0.4rem;
 }
 div.imgText p {
-  font-size: 0.6rem;
+  font-size: 0.8rem;
   color: white;
 }
 .contact {
@@ -404,6 +405,7 @@ a.linkTxt {
   .production_text h2 {
     font-size: 1.2rem;
     margin-bottom: 0.6rem !important;
+    padding-right: 8rem;
   }
   .production_text p {
     font-size: 0.8rem;
